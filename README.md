@@ -1,7 +1,3 @@
-Here is a professional and well-structured **README.md** file for your Churn Prediction project, ready to use on GitHub:
-
----
-
 ````markdown
 # 📉 Customer Churn Prediction
 
